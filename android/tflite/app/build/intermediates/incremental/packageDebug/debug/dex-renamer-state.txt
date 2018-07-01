@@ -1,0 +1,4 @@
+#Sun Jul 01 23:22:46 IST 2018
+base.0=/Users/mtarun/git/mldemos/android-image-classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/mtarun/git/mldemos/android-image-classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
